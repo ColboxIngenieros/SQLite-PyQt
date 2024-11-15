@@ -5,7 +5,7 @@
 
 # ----  APLICACION DE REGISTRO DE LA COVERTURA DE UNA HERRAMIENTA DE PROGRAMACION DE LLAVES DE VEHICULO ------
 
-# PROYECTO:
+## PROYECTO:
 
 Este proyecto se basa en la creacion de una aplicacion que muestra la covertura de los vehiculos que soporta una herramienta de programacion de llaves
 destinado a los comerciales de la empresa. 
