@@ -15,7 +15,7 @@ La aplicacion se compone de 4 ventanas de dialogo:
 > Ventana principal (Main Windows): Muestra la barra de herramientas con 3 botones (añadir vehiculo, buscar datos de vehiculo y cerrar aplicacion). Tambien se muestra la tabla con
         los datos del vehiculo y cada vehiculo dispone de un boton de opciones para poder actualizar ("Edit") sus datos o poder eliminarlo ("Delete").
 
-![Main windows](https://github.com/user-attachments/assets/34c960ec-4ede-45a1-a13c-f89c41935c80)
+![Main windows](https://github.com/user-attachments/assets/be392983-88af-446f-8cd4-1398846d85b0)
 
 
 > Ventana añadir vehiculo (New Vehicle): Muestra el cuadro de dialogo con los datos del vehiculo que se requieren introducir. Disponde de dos botone tanto para guardar el vehiculo como
