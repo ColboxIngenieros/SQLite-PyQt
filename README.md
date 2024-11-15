@@ -25,7 +25,7 @@ consulta QSL:
             Boton "Vehicles cloning" que realiza la consulta de todos los vehiculos que se pueden clonar
             Boton "Vehicles not coverage" que realiza la consulta de los vehiculos que no se pueden ni programar ni clonar
 
-Tambien dispone de un buscador de datos de un vehiculo especifico (Search vehicle name) en el que se puede introducir el nombre del vehiculo o seleccionar
+> Tambien dispone de un buscador de datos de un vehiculo especifico (Search vehicle name) en el que se puede introducir el nombre del vehiculo o seleccionar
 directamente del listado que se muestra. Cuando se selecciona el vehiculo en la parte izquierda aparece el panel de resultados con los datos de dicho
 vehiculo. Analogamente si pulsamos el boton "See more details" se muestra dicho vehiculo en la tabla de la ventana principal.
 
