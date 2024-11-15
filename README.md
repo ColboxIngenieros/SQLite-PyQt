@@ -15,8 +15,14 @@ La aplicacion se compone de 4 ventanas de dialogo:
 > Ventana principal (Main Windows): Muestra la barra de herramientas con 3 botones (añadir vehiculo, buscar datos de vehiculo y cerrar aplicacion). Tambien se muestra la tabla con
         los datos del vehiculo y cada vehiculo dispone de un boton de opciones para poder actualizar ("Edit") sus datos o poder eliminarlo ("Delete").
 
+![Main windows](https://github.com/user-attachments/assets/34c960ec-4ede-45a1-a13c-f89c41935c80)
+
+
 > Ventana añadir vehiculo (New Vehicle): Muestra el cuadro de dialogo con los datos del vehiculo que se requieren introducir. Disponde de dos botone tanto para guardar el vehiculo como
         para cancelar el registro.
+
+![New Vehicle Dialog](https://github.com/user-attachments/assets/4e041ecb-f3e4-401a-adf5-1ed8bd90b4e4)
+
 
 > Ventana busqueda (Search): Muestra el cuadro de dialogo para realizar distintas busquedas, se compone en la parte superior de 4 botones en el que cada boton realiza una
 consulta QSL:
@@ -30,4 +36,9 @@ consulta QSL:
          directamente del listado que se muestra. Cuando se selecciona el vehiculo en la parte izquierda aparece el panel de resultados con los datos de dicho
          vehiculo. Analogamente si pulsamos el boton "See more details" se muestra dicho vehiculo en la tabla de la ventana principal.
 
+![Search Vehicle Dialog](https://github.com/user-attachments/assets/6dc2bdcc-0596-49df-8419-8faab769fea5)
+
+
 > Ventana de actualizacion (Update Vehicle): Muestra el cuadro de dialogo para actualizar los datos y aparece cuando se selecciona en el vehiculo la opcion de "Edit"
+
+![Update Vehicle Dialog](https://github.com/user-attachments/assets/0424f271-b1fc-46f0-8310-7025db4c878e)
