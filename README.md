@@ -1,10 +1,10 @@
 # SQLite-PyQt
-#
+
 # Actividad Final Modulo 3 - Base de Datos
-#
-#
+
+
 # ----  APLICACION DE REGISTRO DE LA COVERTURA DE UNA HERRAMIENTA DE PROGRAMACION DE LLAVES DE VEHICULO ------
-#
+
 # PROYECTO:
 
 Este proyecto se basa en la creacion de una aplicacion que muestra la covertura de los vehiculos que soporta una herramienta de programacion de llaves
