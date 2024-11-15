@@ -1,4 +1,4 @@
-# SQLite-PyQt
+# Vehicle_Application_List
 
 # Actividad Final Modulo 3 - Base de Datos
 
