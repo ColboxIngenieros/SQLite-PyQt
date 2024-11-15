@@ -20,6 +20,7 @@ La aplicacion se compone de 4 ventanas de dialogo:
 
 > Ventana busqueda (Search): Muestra el cuadro de dialogo para realizar distintas busquedas, se compone en la parte superior de 4 botones en el que cada boton realiza una
 consulta QSL:
+
 > Boton "All vehicles" que realiza la consulta de todos los vehiculos registrados en la base de datos
 > Boton "Vehicles programming" que realiza la consulta de todos los vehiculos que se pueden programar
 > Boton "Vehicles cloning" que realiza la consulta de todos los vehiculos que se pueden clonar
